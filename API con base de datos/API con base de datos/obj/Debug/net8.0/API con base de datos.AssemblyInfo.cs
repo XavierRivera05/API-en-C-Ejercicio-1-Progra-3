@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API con base de datos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+978ce7cbdddb1cf875b116131dda03649670b13d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb340a83c16e5e99fc7c19e35cfefaf126725cda")]
 [assembly: System.Reflection.AssemblyProductAttribute("API con base de datos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API con base de datos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

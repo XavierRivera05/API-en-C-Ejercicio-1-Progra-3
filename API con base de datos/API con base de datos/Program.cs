@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using API_con_base_de_datos.Data;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
