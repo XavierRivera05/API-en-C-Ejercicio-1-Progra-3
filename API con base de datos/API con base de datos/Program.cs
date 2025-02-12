@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using API_con_base_de_datos.Data;
+using API_con_base_de_datos.Repositories;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,3 +28,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+builder.Services.AddScoped(typeof(IProductoRepository), typeof(ProductoRepository));
