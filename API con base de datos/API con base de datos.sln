@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API con base de datos", "API con base de datos\API con base de datos.csproj", "{27EB09AF-0547-4E84-AC5E-D9713DC13466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API con base de datos", "API con base de datos\API con base de datos.csproj", "{27EB09AF-0547-4E84-AC5E-D9713DC13466}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{981EA1B0-529A-42B6-A803-98E027E57F79}"
 	ProjectSection(SolutionItems) = preProject
